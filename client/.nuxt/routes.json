@@ -1,0 +1,16 @@
+[
+  {
+    "name": "second",
+    "path": "/second",
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\second.vue",
+    "chunkName": "pages/second",
+    "_name": "_ad1f640c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Михаил\\\\YandexDisk\\\\My\\\\JS\\\\NUXT\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0482c888"
+  }
+]
